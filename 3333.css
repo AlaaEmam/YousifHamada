@@ -54,14 +54,17 @@ table td
 
 .bar ul li a:hover{
 				
-				color:orange;	
-	img{border: solid 5px wheat;
+color:orange;
+}
+.img
+{
+border: solid 5px wheat;
 	
 	
 	
-	margin: 10px 50px;}
+	margin: 10px 50px;
+ }
 
-			} 
 #dow{background:	#784212   ;
 	padding-bottom: 20px;
 	color:  white;
